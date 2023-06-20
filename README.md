@@ -17,6 +17,4 @@ Se você gostaria de entrar em contato comigo, você pode me encontrar em:
 - 📧E-mail: anajmodesto1@gmail.com
 - 👔LinkedIn: https://www.linkedin.com/in/anajmodesto
 
-## Obrigado pela visita!
-
-Obrigado por conferir o meu perfil do GitHub! Fique à vontade para explorar meus projetos e entrar em contato comigo.
+## Obrigada pela visita!
