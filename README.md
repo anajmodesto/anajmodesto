@@ -1,6 +1,6 @@
 # Olá!
 
-Estudante de Engenharia de Software e iniciante no mundo da programação. Atualmente estou estudando HTML, CSS e JavaScript. Busco desenvolver novos projetos utilizando essas linguagens para praticar.
+Estudante de Engenharia de Software e iniciante no mundo da programação. Atualmente estudando HTML, CSS e JavaScript. Meu objetivo é desenvolver novos projetos utilizando essas linguagens para praticar.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anajmodesto&layout=compact)
 
