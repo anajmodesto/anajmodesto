@@ -4,7 +4,7 @@ Estudante de Engenharia de Software e iniciante no mundo da programação. Atual
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anajmodesto&layout=compact)
 
-## 📞Contato
+## Você pode me encontrar em...
 
 - E-mail: anajmodesto1@gmail.com
 - LinkedIn: https://www.linkedin.com/in/anajmodesto
